@@ -121,7 +121,7 @@ export const socials = [
       {
         label: "Global",
         href: "https://t.me/farswap_global",
-      }
+      },
     ],
   },
   {
