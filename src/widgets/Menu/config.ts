@@ -120,14 +120,14 @@ export const socials = [
     items: [
       {
         label: "Global",
-        href: "https://t.me/farswap_global",
+        href: "https://t.me/BSCTrust",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/farswap_defi",
+    href: "https://twitter.com/bsctrust_fin",
   },
 ];
 
